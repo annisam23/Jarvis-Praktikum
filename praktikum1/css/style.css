@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+.melengkung{
+    border-radius: 20px;
+}
+form{
+    border: solid 1px;
+    margin: 10px;
+    padding: 20px;
+}
